@@ -1,0 +1,5 @@
+AWS provides world-leading cloud technologies that empower organizations and individuals to transform industries, communities, and lives.
+As part of Amazon, AWS is committed to being Earth’s most customer-centric company. 
+They work backward from customer problems to provide cloud infrastructure that meets diverse needs.
+Whether it’s entrepreneurs launching new businesses, established companies reinventing themselves, non-profits advancing missions, or governments serving citizens more effectively, 
+AWS is trusted with livelihoods, goals, ideas, and data...........
